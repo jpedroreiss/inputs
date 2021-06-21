@@ -1,0 +1,18 @@
+.primeiro {
+    width: 343px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+}
+
+.primeiro img {
+    padding-left: 9px;
+}
+
+.primeiro input {
+    background-color: transparent;
+    border: none;
+    padding-left: 10px;
+}

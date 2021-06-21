@@ -1,0 +1,14 @@
+.terceiro__components {
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    width: 90%;
+    
+}
+
+.terceiro__components input {
+    height: 36px;
+    width: 250px;
+    border-radius: 18px;
+
+}
